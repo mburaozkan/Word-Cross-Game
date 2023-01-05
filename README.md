@@ -19,3 +19,4 @@ Find listed words in grid of letters in horizontal, vertical and diagonal direct
 |![Screenshot 1](sc/sc_1.jpg)|![Screenshot 2](sc/sc_2.jpg)|![Screenshot 3](sc/sc_3.jpg)|
 |-|-|-|
 "# Word-Cross-Game" 
+"# Word-Cross-Game" 
