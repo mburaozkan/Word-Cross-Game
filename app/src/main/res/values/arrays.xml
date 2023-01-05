@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array
+        name="game_round_dimensions"
+        tools:ignore="MissingTranslation">
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+        <item>6 x 6</item>
+        <item>7 x 7</item>
+        <item>8 x 8</item>
+        <item>9 x 9</item>
+        <item>10 x 10</item>
+        <item>11 x 11</item>
+        <item>12 x 12</item>
+    </string-array>
+    <integer-array name="game_round_dimension_values">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </integer-array>
+
+    <string-array name="game_modes">
+        <item>@string/mode_normal</item>
+        <item>@string/mode_hidden</item>
+        <item>@string/mode_count_down</item>
+        <item>@string/mode_marathon</item>
+    </string-array>
+
+    <string-array name="game_difficulty">
+        <item>@string/diff_easy</item>
+        <item>@string/diff_medium</item>
+        <item>@string/diff_hard</item>
+    </string-array>
+
+    <string-array name="snap_to_grid_type_prefs">
+        <item>@string/always_snap</item>
+        <item>@string/start_end_snap</item>
+    </string-array>
+    <string-array
+        name="snap_to_grid_type_prefs_val"
+        tools:ignore="MissingTranslation">
+        <item>ALWAYS_SNAP</item>
+        <item>START_END</item>
+    </string-array>
+
+</resources>

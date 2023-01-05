@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#E91E63</color>
+    <color name="selTextBgColor">#19ffffff</color>
+
+    <color name="bgBtnSettings">#09D261</color>
+    <color name="bgBtnSettingsOverlay">#0aff8f00</color>
+
+    <color name="gray">#aa808080</color>
+    <color name="gridLine">#FFCA28</color>
+</resources>

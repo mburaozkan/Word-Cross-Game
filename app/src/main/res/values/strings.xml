@@ -1,0 +1,80 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Word Search</string>
+    <string name="summary_about">
+        Word search puzzle game with dynamically generated levels.
+        \n\nSound effects:
+        \ncorrect (https://freesound.org/s/131660/) &amp; wrong (https://freesound.org/s/131657/) by Bertrof, winning (https://freesound.org/s/258142/) by Tuudurt, lose (https://freesound.org/s/270329/) by LittleRobotSoundFactory\n
+    </string>
+    <string name="finished">Finished!</string>
+
+    <!-- prefs -->
+    <string tools:ignore="MissingTranslation" name="pref_showGridLine">showGridLine</string>
+    <string tools:ignore="MissingTranslation" name="pref_snapToGrid">snapToGrid</string>
+    <string tools:ignore="MissingTranslation" name="pref_enableSound">enableSound</string>
+    <string tools:ignore="MissingTranslation" name="pref_deleteAfterFinish">deleteAfterFinish</string>
+    <string tools:ignore="MissingTranslation" name="pref_enableFullscreen">enableFullscreen</string>
+    <string tools:ignore="MissingTranslation" name="pref_autoScaleGrid">autoScaleGrid</string>
+    <string name="snap_to_grid_def_val">ALWAYS_SNAP</string>
+    <string name="show_grid_line">Show Grid Line</string>
+    <string name="snap_to_grid">Snap To Grid</string>
+    <string name="about">About</string>
+    <string name="saved_game">Saved game data</string>
+    <string name="enable_sound">Enable Sound</string>
+    <string name="about_credit">Developer: Abdul Aris R.</string>
+    <string name="delete_finish">Delete Finish</string>
+    <string name="enable_fullscreen">Fullscreen</string>
+    <string name="auto_scale_grid">Auto Scale Grid</string>
+    <string name="finish_text">You have just finished :gridSize grid with :uwCount words in :duration</string>
+    <string name="version">Version</string>
+    <string name="version_num">15.4.0</string>
+    <string name="settings">Settings</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="new_game">Play</string>
+    <string name="auto_scale_grid_summary">Automatically scale grid based on the screen width</string>
+    <string name="pref_reverseMatching">reverseMatching</string>
+    <string name="reverse_matching">Reverse matching</string>
+    <string name="pref_grayscale">grayscale</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="game_data_desc">:gridSize, :wordCount Words</string>
+    <string name="empty_count">-</string>
+    <string name="count_divider">/</string>
+    <string name="init_duration">00:00</string>
+    <string name="title_game_history">Game History</string>
+    <string name="empty_game_data">No game data saved</string>
+    <string name="lbl_clear_all">Clear All</string>
+    <string name="lbl_grid_size">Grid Size</string>
+    <string name="lbl_history">History</string>
+    <string name="lbl_settings">Settings</string>
+    <string name="lbl_all_themes">All Themes</string>
+    <string name="title_theme_selector">Select word theme</string>
+
+    <string name="mode_normal">Relax</string>
+    <string name="mode_hidden">Secret</string>
+    <string name="mode_count_down">Count Down</string>
+    <string name="mode_marathon">Marathon</string>
+    <string name="hidden_mask">\?</string>
+    <string name="lbl_complete">Complete!</string>
+    <string name="diff_easy">Easy</string>
+    <string name="diff_medium">Medium</string>
+    <string name="diff_hard">Hard</string>
+    <string name="lbl_game_over">Game Over!</string>
+    <string name="up_to_date">You\'re already up to date</string>
+    <string name="update_success">Successfully updated</string>
+    <string name="err_no_connect">Error: Please check your internet connection</string>
+    <string name="tag_header">PUZZLE</string>
+    <string name="lbl_game_mode">Game Mode</string>
+    <string name="lbl_update_words">Update words</string>
+    <string name="lbl_data_rev">data revision:</string>
+    <string name="lbl_updating_words">Downloading words data…</string>
+    <string name="text_generating">Generating :row x :col grid</string>
+    <string name="lbl_load_game_data">Loading game data</string>
+    <string name="text_words">:count words</string>
+    <string name="disable_colors">Disable colors</string>
+    <string name="always_snap">Always Snap</string>
+    <string name="start_end_snap">Start and End</string>
+    <string name="pref_title_game_play">Game Play</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="summ_reverse_match">Allow reverse word selection</string>
+    <string name="summ_del_finish">Delete game data when it finished</string>
+</resources>
